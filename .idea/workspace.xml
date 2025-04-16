@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea6ced77-d5d7-4c2a-a21a-a7086ed92044" name="Changes" comment="syntax correction">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ui/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/button.tsx" afterDir="false" />
+    <list default="true" id="ea6ced77-d5d7-4c2a-a21a-a7086ed92044" name="Changes" comment="fix: define content constant and add full bilingual profile structure to fix build error">
+      <change afterPath="$PROJECT_DIR$/src/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +25,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2vmus7ctFSNeg6wH3uaLIElFDMP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +38,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Javier Rodríguez/Documents/web",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,7 +74,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744763799998</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix: define content constant and add full bilingual profile structure to fix build error">
+      <option name="closed" value="true" />
+      <created>1744763936741</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744763936741</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix: define content constant and add full bilingual profile structure to fix build error">
+      <option name="closed" value="true" />
+      <created>1744763947523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744763947523</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="syntax correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="syntax correction" />
+    <MESSAGE value="fix: define content constant and add full bilingual profile structure to fix build error" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: define content constant and add full bilingual profile structure to fix build error" />
   </component>
 </project>
