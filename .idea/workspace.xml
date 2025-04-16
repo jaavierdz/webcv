@@ -4,13 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea6ced77-d5d7-4c2a-a21a-a7086ed92044" name="Changes" comment="fix: define content constant and add full bilingual profile structure to fix build error">
-      <change afterPath="$PROJECT_DIR$/src/styles/globals.css" afterDir="false" />
+    <list default="true" id="ea6ced77-d5d7-4c2a-a21a-a7086ed92044" name="Changes" comment="feat: configuración inicial de Tailwind y creación de página principal CV">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,6 +59,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Javier Rodríguez\Documents\web\src\pages" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -90,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744763947523</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: configuración inicial de Tailwind y creación de página principal CV">
+      <option name="closed" value="true" />
+      <created>1744764274569</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744764274569</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="syntax correction" />
     <MESSAGE value="fix: define content constant and add full bilingual profile structure to fix build error" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: define content constant and add full bilingual profile structure to fix build error" />
+    <MESSAGE value="feat: configuración inicial de Tailwind y creación de página principal CV" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: configuración inicial de Tailwind y creación de página principal CV" />
   </component>
 </project>
