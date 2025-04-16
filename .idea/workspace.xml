@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea6ced77-d5d7-4c2a-a21a-a7086ed92044" name="Changes" comment="feat: configuración inicial de Tailwind y creación de página principal CV">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.ts" afterDir="false" />
+    <list default="true" id="ea6ced77-d5d7-4c2a-a21a-a7086ed92044" name="Changes" comment="fix: changed from .ts to .tsx">
+      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744764274569</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix: destructuration of of Component &amp; pageProps">
+      <option name="closed" value="true" />
+      <created>1744764517999</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744764517999</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix: changed from .ts to .tsx">
+      <option name="closed" value="true" />
+      <created>1744764579675</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744764579675</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +149,8 @@
     <MESSAGE value="syntax correction" />
     <MESSAGE value="fix: define content constant and add full bilingual profile structure to fix build error" />
     <MESSAGE value="feat: configuración inicial de Tailwind y creación de página principal CV" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: configuración inicial de Tailwind y creación de página principal CV" />
+    <MESSAGE value="fix: destructuration of of Component &amp; pageProps" />
+    <MESSAGE value="fix: changed from .ts to .tsx" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: changed from .ts to .tsx" />
   </component>
 </project>
